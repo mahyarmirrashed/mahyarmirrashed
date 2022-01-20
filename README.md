@@ -4,14 +4,15 @@
 
 #### Let's Connect!
 
-I'm always glad to connect with anyone on [LinkedIn](https://linkedin.com/in/mahyarmirrashed/) but especially if you work: in EdTech, with Web 3.0 technologies, with the BitTorrent protocol, with NodeJS tools (e.g. TypeScript), or have a passion for machine learning tools like PyTorch and TensorFlow (Probability).
+I'm always glad to connect with anyone on **[LinkedIn](https://linkedin.com/in/mahyarmirrashed/)** but especially if you work: in EdTech, with Web 3.0 technologies, with the BitTorrent protocol, with NodeJS tools (e.g. TypeScript), or have a passion for machine learning tools like PyTorch and TensorFlow (Probability).
 
 #### Facts About Me
 
-- Completed 80% of my computer engineering degree;
-- Software developer at [Harris Computer](https://www.harriscomputer.com/) :computer:;
-- Worked on probabilistic machine learning models for solving inverse scattering problems;
-- Hobby trader :chart_with_upwards_trend: exploring the future of [DeFi](https://ethereum.org/en/defi/) technologies;
+- Completed 80% of my computer engineering degree :gear:
+- Software developer at [Harris Computer](https://www.harriscomputer.com/) :computer:
+- Worked on probabilistic machine learning models for solving inverse scattering problems :bookmark_tabs:
+- Hobby trader :chart_with_upwards_trend: exploring the future of [DeFi](https://ethereum.org/en/defi/) technologies
+- Active member and supporter of various open-source technologies that power the modern software development landscape
 
 ---
 
