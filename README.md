@@ -10,9 +10,9 @@ I'm always glad to connect with anyone on **[LinkedIn](https://linkedin.com/in/m
 
 - Completed 80% of my computer engineering degree :gear:
 - Software developer at [Harris Computer](https://www.harriscomputer.com/) :computer:
-- Worked on probabilistic machine learning models for solving inverse scattering problems :bookmark_tabs:
-- Hobby trader :chart_with_upwards_trend: exploring the future of [DeFi](https://ethereum.org/en/defi/) technologies
-- Active member and supporter of various open-source technologies that power the modern software development landscape
+- Worked on probabilistic machine learning models for solving inverse scattering problems 👨‍🔬:bookmark_tabs:
+- Hobby trader :chart_with_upwards_trend: exploring the future of [DeFi](https://ethereum.org/en/defi/) technologies (&#x20BF; and &#x039E;)
+- Active member and supporter of various open-source technologies :octocat:
 
 ---
 
