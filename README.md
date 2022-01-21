@@ -1,6 +1,6 @@
 ### Mahyar Mirrashed
 
-'Ello gov'nor! My name's Mahyar and I dabble with the [MERN](https://www.mongodb.com/mern-stack) stack and machine learning these days. Planning to eventually develop a freemium EdTech entreprise based upon Web 3.0 dentralized technologies.
+'Ello gov'nor! My name's Mahyar and I dabble with the [MERN](https://www.mongodb.com/mern-stack) stack and machine learning these days. Planning to eventually develop a freemium EdTech entreprise based upon Web 3.0 decentralized technologies.
 
 #### Let's Connect!
 
