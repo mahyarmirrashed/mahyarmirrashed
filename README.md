@@ -1,6 +1,8 @@
 ### Mahyar Mirrashed
 
-'Ello gov'nor! My name's Mahyar. I plan to develop a freemium EdTech entreprise.
+'Ello gov'nor! My name's Mahyar.
+
+I'm going to rock the world with a revolutionary EdTech enterprise.
 
 #### Let's Connect!
 
@@ -8,8 +10,8 @@ Connect with me on **[LinkedIn](https://linkedin.com/in/mahyarmirrashed/)**!
 
 #### Facts About Me
 
-- Average :coffee: and :tea: drinker (I like what I like)
-- Fedora Linux :penguin: user since 2021
+- Average :coffee: and :tea: drinker
+- Linux :penguin: user since 2021
 
 ---
 
