@@ -1,0 +1,51 @@
+name: Update Readme
+
+on:
+  schedule:
+    # Runs every day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  with-blog:
+    name: Update blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: https://mahyarmirrashed.com/atom.xml
+
+  # with-stats:
+  #   name: Update stats
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: th3c0d3br34ker/github-readme-info@master
+  #       with:
+  #         GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  #         TIMEZONE: "America/Winnipeg"
+  #         SHOW_LINES_OF_CODE: "True"
+  #         SHOW_PROFILE_VIEWS: "True"
+  #         SHOW_DAILY_COMMIT: "True"
+  #         SHOW_WEEKLY_COMMIT: "True"
+  #         SHOW_LANGUAGE: "True"
+  #         SHOW_TOTAL_CONTRIBUTIONS: "True"
+
+  squash-commits:
+    name: Squash Commits
+    runs-on: ubuntu-latest
+    needs:
+      - with-blog
+      # - with-stats
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Squash Commits into Last Commit
+        run: |
+          git config --global user.name "Mahyar Mirrashed"
+          git config --global user.email "mah.mirr@gmail.com"
+          git fetch origin
+          git reset --soft $(git rev-list --author="Mahyar Mirrashed" -n 1 HEAD)
+          git commit --amend --no-edit
+          git push -f
