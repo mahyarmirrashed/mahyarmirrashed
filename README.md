@@ -11,9 +11,9 @@
 
 ## 🌎 About Me
 
-- 💡 **Innovation:** Always exploring new ideas to push boundaries.
-- 🚀 **Efficiency:** Relentlessly optimizing systems for better results.
-- 💪 **Collaboration:** Thriving in teamwork and celebrating shared success.
+- 💡 **Innovative:** Always exploring new ideas to push boundaries.
+- 🚀 **Efficient:** Relentlessly optimizing systems for better results.
+- 💪 **Collaborative:** Thriving in teamwork and celebrating shared success.
 
 ## 📜 Blog Posts
 
