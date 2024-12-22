@@ -22,4 +22,4 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.PAT }}
           TIMEZONE: "America/Winnipeg"
-          INCLUDES: "--include DAY_STATS --include WEEK_STATS --include LANGUAGE_STATS"
+          INCLUDES: "DAY_STATS WEEK_STATS LANGUAGE_STATS"
