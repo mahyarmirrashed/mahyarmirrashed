@@ -8,6 +8,7 @@
 [![Static Badge](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@mahmirr)
 [![Static Badge](https://img.shields.io/badge/CV-33a4d3?style=for-the-badge&logo=googleforms)](https://mahyarmirrashed.com/resume.pdf)
 [![Static Badge](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@mahyarmirrashed)
+[![Static Badge](https://img.shields.io/badge/website-darkolivegreen?style=for-the-badge&logo=rye&logoColor=white)](https://mahyarmirrashed.com)
 
 ## 🌎 About Me
 
