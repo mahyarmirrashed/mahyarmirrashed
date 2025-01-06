@@ -18,7 +18,7 @@ jobs:
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
           commit_message: "docs: update readme with blog posts"
-      - uses: mahyarmirrashed/github-readme-stats@feature/minify-docker-image
+      - uses: mahyarmirrashed/github-readme-stats@v2.0
         with:
           GITHUB_TOKEN: ${{ secrets.PAT }}
           TIMEZONE: "America/Winnipeg"
