@@ -1,4 +1,4 @@
-![](./res/header.jpg)
+![](./res/banner.png)
 
 # Hello, I'm Mahyar Mirrashed
 
