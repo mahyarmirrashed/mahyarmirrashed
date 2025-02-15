@@ -20,7 +20,7 @@
 ## 📜 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflecting on &quot;Study Spots&quot;: My First Svelte Project](https://mahyarmirrashed.com/reflecting-on-study-spots/)
+- [Reflecting on Study Spots](https://mahyarmirrashed.com/blog/reflecting-on-study-spots/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Stats
