@@ -20,6 +20,7 @@
 ## 📜 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pre-Installing Docker Images Inside Exported Docker Containers](https://mahyarmirrashed.com/blog/pre-installing-docker-images/)
 - [Reflecting on Study Spots](https://mahyarmirrashed.com/blog/reflecting-on-study-spots/)
 <!-- BLOG-POST-LIST:END -->
 
