@@ -21,6 +21,7 @@
 ## 📜 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Peerlist: The Antidote to LinkedIn](https://mahyarmirrashed.com/blog/peerlist-antidote-to-linkedin/)
 - [Pre-Installing Docker Images Inside Exported Docker Containers](https://mahyarmirrashed.com/blog/pre-installing-docker-images/)
 - [Reflecting on Study Spots](https://mahyarmirrashed.com/blog/reflecting-on-study-spots/)
 <!-- BLOG-POST-LIST:END -->
