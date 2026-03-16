@@ -21,10 +21,9 @@
 ## 📜 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fly.io as a Tailscale Exit Node](https://mahyarmirrashed.com/blog/flyio-as-tailscale-exit-node/)
-- [Peerlist: The Antidote to LinkedIn](https://mahyarmirrashed.com/blog/peerlist-antidote-to-linkedin/)
-- [Pre-Installing Docker Images Inside Exported Docker Containers](https://mahyarmirrashed.com/blog/pre-installing-docker-images/)
-- [Reflecting on Study Spots](https://mahyarmirrashed.com/blog/reflecting-on-study-spots/)
+- [Giving Ordinary People the Same Tools Corporations Use](https://mahyarmirrashed.com/posts/citizens-lobbying-like-corporations/)
+- [Fly.io as a Tailscale Exit Node](https://mahyarmirrashed.com/posts/flyio-as-tailscale-exit-node/)
+- [Pre-Installing Docker Images Inside Exported Docker Containers](https://mahyarmirrashed.com/posts/pre-installing-docker-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Stats
