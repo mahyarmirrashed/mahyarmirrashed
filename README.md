@@ -12,10 +12,7 @@
 ## 📜 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Giving Ordinary People the Same Tools Corporations Use](https://mahyarmirrashed.com/posts/citizens-lobbying-like-corporations/)
-- [Fly.io as a Tailscale Exit Node](https://mahyarmirrashed.com/posts/flyio-as-tailscale-exit-node/)
-- [Pre-Installing Docker Images Inside Exported Docker Containers](https://mahyarmirrashed.com/posts/pre-installing-docker-images/)
+- [AMD Bought a World Model Company](https://mahyarmirrashed.com/posts/world-models-the-new-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Stats
