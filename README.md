@@ -12,6 +12,7 @@
 ## 📜 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Giving World Models Intent](https://mahyarmirrashed.com/posts/agentic-world-models/)
 - [AMD Bought a World Model Company](https://mahyarmirrashed.com/posts/world-models-the-new-future/)
 <!-- BLOG-POST-LIST:END -->
 
