@@ -12,10 +12,8 @@
 ## 📜 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [When World Models Start Gaining Agency](https://mahyarmirrashed.com/posts/agentic-world-models/)
 - [AMD Bought a World Model Company](https://mahyarmirrashed.com/posts/world-models-the-new-future/)
-
 <!-- BLOG-POST-LIST:END -->
 
 Made with :heart: from Canada!
