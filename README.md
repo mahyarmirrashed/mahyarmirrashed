@@ -12,35 +12,10 @@
 ## 📜 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [When World Models Start Gaining Agency](https://mahyarmirrashed.com/posts/agentic-world-models/)
 - [AMD Bought a World Model Company](https://mahyarmirrashed.com/posts/world-models-the-new-future/)
+
 <!-- BLOG-POST-LIST:END -->
-
-## 📊 Stats
-
-<!-- README-STATS:START -->
-
-```
-🕰️ I get my jam on during the night!
-
-🌞 Morning  	222    commits	██░░░░░░░░░░░░░░░░░░░░░░░░░░░░	3.62%
-🌆 Daytime  	1438   commits	███████████████████░░░░░░░░░░░	23.46%
-🌃 Evening  	2207   commits	█████████████████████████████░	36.01%
-🌙 Night    	2262   commits	██████████████████████████████	36.91%
-```
-
-```
-📅 I'm most productive on Saturdays!
-
-Monday      	799    commits	███████████████████████░░░░░░░	13.04%
-Tuesday     	906    commits	██████████████████████████░░░░	14.78%
-Wednesday   	870    commits	█████████████████████████░░░░░	14.19%
-Thursday    	788    commits	██████████████████████░░░░░░░░	12.86%
-Friday      	725    commits	█████████████████████░░░░░░░░░	11.83%
-Saturday    	1030   commits	██████████████████████████████	16.81%
-Sunday      	1011   commits	█████████████████████████████░	16.50%
-```
-
-<!-- README-STATS:END -->
 
 Made with :heart: from Canada!
